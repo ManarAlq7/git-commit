@@ -9,3 +9,8 @@ A commit is a snapshot of my whole project at one moment.
 - git push
 
 Name: Manar
+## Add vs Commit
+
+git add moves a file to the Staging Area.
+
+git commit takes a snapshot of the project.
